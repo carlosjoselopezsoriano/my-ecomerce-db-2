@@ -4,7 +4,6 @@ CREATE TABLE Productos (
     codigo VARCHAR(255) NOT NULL
 );
 
-
 INSERT INTO Productos (nombre, codigo) VALUES ('Pantalon', 'P1');
 INSERT INTO Productos (nombre, codigo) VALUES ('CAMISA', 'C1');
 INSERT INTO Productos (nombre, codigo) VALUES ('ZAPATO', 'Z1');
