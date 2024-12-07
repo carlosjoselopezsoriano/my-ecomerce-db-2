@@ -1,4 +1,3 @@
-# imagen ubuntu mysql no tiene vulnerabilidades
 FROM ubuntu/mysql:latest
 
 # Exponer el puerto 3306 para la conexión a la base de datos MySQL
